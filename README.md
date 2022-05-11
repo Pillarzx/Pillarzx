@@ -2,4 +2,4 @@
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning ...
 
-[![Anurag's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/Pillarzx/github-readme-stats)
+[![Pillarzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pillarzx&?count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
